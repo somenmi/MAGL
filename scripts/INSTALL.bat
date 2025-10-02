@@ -45,7 +45,7 @@ echo sLinkFile = "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\MAGL.l
 echo Set oLink = oWS.CreateShortcut(sLinkFile) >> %SCRIPT%
 echo oLink.TargetPath = "%~dp0MAGL.exe" >> %SCRIPT%
 echo oLink.WorkingDirectory = "%~dp0" >> %SCRIPT%
-echo oLink.Description = "MicAutoGainLock - защита громкости микрофона" >> %SCRIPT%
+echo oLink.Description = "MicAutoGainLock - Skajem net krokozyambram" >> %SCRIPT%
 echo oLink.WindowStyle = 7 >> %SCRIPT%
 echo oLink.IconLocation = "%~dp0MAGL.exe, 0" >> %SCRIPT%
 echo oLink.Save >> %SCRIPT%
