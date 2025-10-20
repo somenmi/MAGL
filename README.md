@@ -1,9 +1,9 @@
-<table style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-        <td style="border: none;">
+<table border="0">
+    <tr>
+        <td>
             <img src="https://github.com/somenmi/images/raw/main/MAGL/MAGL.png" width="120" height="120">
         </td>
-        <td style="border: none;">
+        <td>
             <h1><strong>MAGL</strong> (MicAutoGainLock)</h1>
             <p><strong>Умная защита громкости микрофона от автоматического изменения в Windows</strong></p>
         </td>
